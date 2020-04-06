@@ -1,0 +1,19 @@
+输入自己的用户名和邮箱
+git config --global user.name “zenghao-hub”
+git config --global user.email “15527597628@163.com”
+
+上传所有文件 git add .
+
+提交文件 git commit -m “提交文件注释”
+
+
+利用GUI上传
+1. remote》add
+2.输入用户名与 仓库地址（事先应定义好仓库）并要求勾选fetch immediately
+3. Rescan》Stage Changed》Sign Off》commit》Push
+4.至少选择一个Force overwrite existing branch（一定要勾选，否则无法上传）
+5. 输入用户名，密码完成上传
+
+
+参考网址：
+https://blog.csdn.net/qq_36667170/article/details/79085301

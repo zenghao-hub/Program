@@ -1,0 +1,1701 @@
+============================================
+ Run TestCase:copy_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:copy_test
+============================================
+ Run TestCase:copy_backward_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:copy_backward_test
+============================================
+ Run TestCase:copy_if_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:copy_if_test
+============================================
+ Run TestCase:copy_n_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:copy_n_test
+============================================
+ Run TestCase:move_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:move_test
+============================================
+ Run TestCase:move_backward_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:move_backward_test
+============================================
+ Run TestCase:equal_test
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ 4 / 4 Cases passed. ( 100% )
+ End TestCase:equal_test
+============================================
+ Run TestCase:fill_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:fill_test
+============================================
+ Run TestCase:fill_n_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:fill_n_test
+============================================
+ Run TestCase:iter_swap_test
+ EXPECT_PTR_EQ succeeded!
+ EXPECT_PTR_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ 4 / 4 Cases passed. ( 100% )
+ End TestCase:iter_swap_test
+============================================
+ Run TestCase:lexicographical_compare_test
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ 4 / 4 Cases passed. ( 100% )
+ End TestCase:lexicographical_compare_test
+============================================
+ Run TestCase:max_test
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ 3 / 3 Cases passed. ( 100% )
+ End TestCase:max_test
+============================================
+ Run TestCase:min_test
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ 3 / 3 Cases passed. ( 100% )
+ End TestCase:min_test
+============================================
+ Run TestCase:mismatch_test
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ 6 / 6 Cases passed. ( 100% )
+ End TestCase:mismatch_test
+============================================
+ Run TestCase:make_heap_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 3 / 3 Cases passed. ( 100% )
+ End TestCase:make_heap_test
+============================================
+ Run TestCase:pop_heap_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 10 / 10 Cases passed. ( 100% )
+ End TestCase:pop_heap_test
+============================================
+ Run TestCase:push_heap_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 7 / 7 Cases passed. ( 100% )
+ End TestCase:push_heap_test
+============================================
+ Run TestCase:sort_heap_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:sort_heap_test
+============================================
+ Run TestCase:set_difference_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 3 / 3 Cases passed. ( 100% )
+ End TestCase:set_difference_test
+============================================
+ Run TestCase:set_intersection_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 3 / 3 Cases passed. ( 100% )
+ End TestCase:set_intersection_test
+============================================
+ Run TestCase:set_symmetric_difference_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 3 / 3 Cases passed. ( 100% )
+ End TestCase:set_symmetric_difference_test
+============================================
+ Run TestCase:set_union_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 3 / 3 Cases passed. ( 100% )
+ End TestCase:set_union_test
+============================================
+ Run TestCase:accumulate_test
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ 3 / 3 Cases passed. ( 100% )
+ End TestCase:accumulate_test
+============================================
+ Run TestCase:adjacent_difference_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:adjacent_difference_test
+============================================
+ Run TestCase:inner_product_test
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:inner_product_test
+============================================
+ Run TestCase:iota_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:iota_test
+============================================
+ Run TestCase:partial_sum_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 3 / 3 Cases passed. ( 100% )
+ End TestCase:partial_sum_test
+============================================
+ Run TestCase:adjacent_find_test
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ 3 / 3 Cases passed. ( 100% )
+ End TestCase:adjacent_find_test
+============================================
+ Run TestCase:all_of_test
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:all_of_test
+============================================
+ Run TestCase:any_of_test
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:any_of_test
+============================================
+ Run TestCase:binary_search_test
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:binary_search_test
+============================================
+ Run TestCase:count_test
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ 3 / 3 Cases passed. ( 100% )
+ End TestCase:count_test
+============================================
+ Run TestCase:count_if_test
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:count_if_test
+============================================
+ Run TestCase:equal_range_test
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ 4 / 4 Cases passed. ( 100% )
+ End TestCase:equal_range_test
+============================================
+ Run TestCase:find_test
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:find_test
+============================================
+ Run TestCase:find_end_test
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ 4 / 4 Cases passed. ( 100% )
+ End TestCase:find_end_test
+============================================
+ Run TestCase:find_first_of_test
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:find_first_of_test
+============================================
+ Run TestCase:find_if_test
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:find_if_test
+============================================
+ Run TestCase:find_if_not_test
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:find_if_not_test
+============================================
+ Run TestCase:for_each_test
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:for_each_test
+============================================
+ Run TestCase:generate_test
+ EXPECT_CON_EQ succeeded!
+ 1 / 1 Cases passed. ( 100% )
+ End TestCase:generate_test
+============================================
+ Run TestCase:generate_n_test
+ EXPECT_CON_EQ succeeded!
+ 1 / 1 Cases passed. ( 100% )
+ End TestCase:generate_n_test
+============================================
+ Run TestCase:includes_test
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ 4 / 4 Cases passed. ( 100% )
+ End TestCase:includes_test
+============================================
+ Run TestCase:inplace_merge_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:inplace_merge_test
+============================================
+ Run TestCase:is_heap_test
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ 4 / 4 Cases passed. ( 100% )
+ End TestCase:is_heap_test
+============================================
+ Run TestCase:is_sorted_test
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ 4 / 4 Cases passed. ( 100% )
+ End TestCase:is_sorted_test
+============================================
+ Run TestCase:lower_bound_test
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ 4 / 4 Cases passed. ( 100% )
+ End TestCase:lower_bound_test
+============================================
+ Run TestCase:max_elememt_test
+ EXPECT_PTR_EQ succeeded!
+ EXPECT_PTR_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:max_elememt_test
+============================================
+ Run TestCase:median_test
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:median_test
+============================================
+ Run TestCase:merge_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:merge_test
+============================================
+ Run TestCase:min_elememt_test
+ EXPECT_PTR_EQ succeeded!
+ EXPECT_PTR_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:min_elememt_test
+============================================
+ Run TestCase:is_permutation_test
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ 4 / 4 Cases passed. ( 100% )
+ End TestCase:is_permutation_test
+============================================
+ Run TestCase:next_permutation_test
+ EXPECT_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 13 / 13 Cases passed. ( 100% )
+ End TestCase:next_permutation_test
+============================================
+ Run TestCase:none_of_test
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ 3 / 3 Cases passed. ( 100% )
+ End TestCase:none_of_test
+============================================
+ Run TestCase:nth_element_test
+ EXPECT_TRUE succeeded!
+ EXPECT_TRUE succeeded!
+ EXPECT_TRUE succeeded!
+ EXPECT_TRUE succeeded!
+ EXPECT_TRUE succeeded!
+ EXPECT_TRUE succeeded!
+ EXPECT_TRUE succeeded!
+ EXPECT_TRUE succeeded!
+ 8 / 8 Cases passed. ( 100% )
+ End TestCase:nth_element_test
+============================================
+ Run TestCase:partial_sort_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:partial_sort_test
+============================================
+ Run TestCase:partial_sort_copy_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 3 / 3 Cases passed. ( 100% )
+ End TestCase:partial_sort_copy_test
+============================================
+ Run TestCase:partition_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:partition_test
+============================================
+ Run TestCase:partition_copy_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:partition_copy_test
+============================================
+ Run TestCase:prev_permutation_test
+ EXPECT_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 13 / 13 Cases passed. ( 100% )
+ End TestCase:prev_permutation_test
+============================================
+ Run TestCase:random_shuffle_test
+ EXPECT_CON_NE succeeded!
+ EXPECT_CON_NE succeeded!
+ EXPECT_CON_NE succeeded!
+ EXPECT_CON_NE succeeded!
+ EXPECT_CON_NE succeeded!
+ EXPECT_CON_NE succeeded!
+ EXPECT_CON_NE succeeded!
+ EXPECT_CON_NE succeeded!
+ EXPECT_CON_NE succeeded!
+ EXPECT_CON_NE succeeded!
+ 10 / 10 Cases passed. ( 100% )
+ End TestCase:random_shuffle_test
+============================================
+ Run TestCase:remove_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:remove_test
+============================================
+ Run TestCase:remove_copy_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:remove_copy_test
+============================================
+ Run TestCase:remove_copy_if_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:remove_copy_if_test
+============================================
+ Run TestCase:remove_if_test
+ EXPECT_CON_EQ succeeded!
+ 1 / 1 Cases passed. ( 100% )
+ End TestCase:remove_if_test
+============================================
+ Run TestCase:replace_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 3 / 3 Cases passed. ( 100% )
+ End TestCase:replace_test
+============================================
+ Run TestCase:replace_copy_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 3 / 3 Cases passed. ( 100% )
+ End TestCase:replace_copy_test
+============================================
+ Run TestCase:replace_copy_if_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:replace_copy_if_test
+============================================
+ Run TestCase:replace_if_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:replace_if_test
+============================================
+ Run TestCase:reverse_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:reverse_test
+============================================
+ Run TestCase:reverse_copy_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:reverse_copy_test
+============================================
+ Run TestCase:rotate_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 3 / 3 Cases passed. ( 100% )
+ End TestCase:rotate_test
+============================================
+ Run TestCase:rotate_copy_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 3 / 3 Cases passed. ( 100% )
+ End TestCase:rotate_copy_test
+============================================
+ Run TestCase:search_test
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ 4 / 4 Cases passed. ( 100% )
+ End TestCase:search_test
+============================================
+ Run TestCase:search_n_test
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ 5 / 5 Cases passed. ( 100% )
+ End TestCase:search_n_test
+============================================
+ Run TestCase:sort_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 3 / 3 Cases passed. ( 100% )
+ End TestCase:sort_test
+============================================
+ Run TestCase:swap_ranges_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:swap_ranges_test
+============================================
+ Run TestCase:transform_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:transform_test
+============================================
+ Run TestCase:unique_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:unique_test
+============================================
+ Run TestCase:unique_copy_test
+ EXPECT_CON_EQ succeeded!
+ EXPECT_CON_EQ succeeded!
+ 2 / 2 Cases passed. ( 100% )
+ End TestCase:unique_copy_test
+============================================
+ Run TestCase:upper_bound_test
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ EXPECT_EQ succeeded!
+ 5 / 5 Cases passed. ( 100% )
+ End TestCase:upper_bound_test
+============================================
+ Total TestCase : 81
+ Total Passed : 81
+ Total Failed : 0
+ 81 / 81 TestCases passed. ( 100% )
+[===============================================================]
+[--------------- Run algorithm performance test ----------------]
+[----------------------- function : sort -----------------------]
+| orders of magnitude |      1000   |     10000   |    100000   |
+|         std         |       3ms   |      26ms   |     291ms   |
+|        mystl        |       1ms   |       3ms   |      54ms   |
+[------------------- function : binary_search ------------------]
+| orders of magnitude |      1000   |     10000   |    100000   |
+|         std         |       3ms   |      24ms   |     288ms   |
+|        mystl        |       0ms   |       5ms   |      29ms   |
+[--------------- End algorithm performance test ----------------]
+[===============================================================]
+[===============================================================]
+[----------------- Run container test : vector -----------------]
+[-------------------------- API test ---------------------------]
+ After v1.assign(8, 8) :
+ v1 : 8 8 8 8 8 8 8 8
+ After v1.assign(a, a + 5) :
+ v1 : 1 2 3 4 5
+ After v1.emplace(v1.begin(), 0) :
+ v1 : 0 1 2 3 4
+ After v1.emplace_back(6) :
+ v1 : 0 1 2 3 4 6
+ After v1.push_back(6) :
+ v1 : 0 1 2 3 4 6 6
+ After v1.insert(v1.end(), 7) :
+ v1 : 0 1 2 3 4 6 6 7
+ After v1.insert(v1.begin() + 3, 2, 3) :
+ v1 : 0 1 2 3 3 3 4 6 6 7
+ After v1.insert(v1.begin(), a, a + 5) :
+ v1 : 1 2 3 4 5 0 1 2 3 3 3 4 6 6 7
+ After v1.pop_back() :
+ v1 : 1 2 3 4 5 0 1 2 3 3 3 4 6 6
+ After v1.erase(v1.begin()) :
+ v1 : 2 3 4 5 0 1 2 3 3 3 4 6 6
+ After v1.erase(v1.begin(), v1.begin() + 2) :
+ v1 : 4 5 0 1 2 3 3 3 4 6 6
+ After v1.reverse() :
+ v1 : 6 6 4 3 3 3 2 1 0 5 4
+ After v1.swap(v4) :
+ v1 : 1 2 3 4 5
+ *v1.begin() : 1
+ *(v1.end() - 1) : 5
+ *v1.rbegin() : 5
+ *(v1.rend() - 1) : 1
+ v1.front() : 1
+ v1.back() : 5
+ v1[0] : 1
+ v1.at(1) : 2
+ After change v1.data() :
+ v1 : 10 20 30 4 5
+ v1.empty() : false
+ v1.size() : 5
+ v1.max_size() : 4611686018427387903
+ v1.capacity() : 16
+ After v1.resize(10) :
+ v1 : 10 20 30 4 5 0 0 0 0 0
+ v1.size() : 10
+ v1.capacity() : 16
+ After v1.shrink_to_fit() :
+ v1 : 10 20 30 4 5 0 0 0 0 0
+ v1.size() : 10
+ v1.capacity() : 10
+ After v1.resize(6, 6) :
+ v1 : 10 20 30 4 5 0
+ v1.size() : 6
+ v1.capacity() : 10
+ After v1.shrink_to_fit() :
+ v1 : 10 20 30 4 5 0
+ v1.size() : 6
+ v1.capacity() : 6
+ After v1.clear() :
+ v1 :
+ v1.size() : 0
+ v1.capacity() : 6
+ After v1.reserve(5) :
+ v1 :
+ v1.size() : 0
+ v1.capacity() : 6
+ After v1.reserve(20) :
+ v1 :
+ v1.size() : 0
+ v1.capacity() : 20
+ After v1.shrink_to_fit() :
+ v1 :
+ v1.size() : 0
+ v1.capacity() : 0
+[ PASSED ]
+[--------------------- Performance Testing ---------------------]
+|---------------------|-------------|-------------|-------------|
+|      push_back      |      5000   |     50000   |    500000   |
+|         std         |     11ms    |     76ms    |    704ms    |
+|        mystl        |      4ms    |     20ms    |    193ms    |
+|---------------------|-------------|-------------|-------------|
+[ PASSED ]
+[----------------- End container test : vector -----------------]
+[===============================================================]
+[------------------ Run container test : list ------------------]
+[-------------------------- API test ---------------------------]
+ After l1.assign(8, 8) :
+ l1 : 8 8 8 8 8 8 8 8
+ After l1.assign(a, a + 5) :
+ l1 : 1 2 3 4 5
+ After l1.assign({ 1,2,3,4,5,6 }) :
+ l1 : 1 2 3 4 5 6
+ After l1.insert(l1.end(), 6) :
+ l1 : 1 2 3 4 5 6 6
+ After l1.insert(l1.end(), 2, 7) :
+ l1 : 1 2 3 4 5 6 6 7 7
+ After l1.insert(l1.begin(), a, a + 5) :
+ l1 : 1 2 3 4 5 1 2 3 4 5 6 6 7 7
+ After l1.push_back(2) :
+ l1 : 1 2 3 4 5 1 2 3 4 5 6 6 7 7 2
+ After l1.push_front(1) :
+ l1 : 1 1 2 3 4 5 1 2 3 4 5 6 6 7 7 2
+ After l1.emplace(l1.begin(),1) :
+ l1 : 1 1 1 2 3 4 5 1 2 3 4 5 6 6 7 7 2
+ After l1.emplace_front(0) :
+ l1 : 0 1 1 1 2 3 4 5 1 2 3 4 5 6 6 7 7 2
+ After l1.emplace_back(10) :
+ l1 : 0 1 1 1 2 3 4 5 1 2 3 4 5 6 6 7 7 2 10
+ l1.size() : 19
+ After l1.pop_front() :
+ l1 : 1 1 1 2 3 4 5 1 2 3 4 5 6 6 7 7 2 10
+ After l1.pop_back() :
+ l1 : 1 1 1 2 3 4 5 1 2 3 4 5 6 6 7 7 2
+ After l1.erase(l1.begin()) :
+ l1 : 1 1 2 3 4 5 1 2 3 4 5 6 6 7 7 2
+ After l1.erase(l1.begin(), l1.end()) :
+ l1 :
+ l1.size() : 0
+ After l1.resize(10) :
+ l1 : 0 0 0 0 0 0 0 0 0 0
+ After l1.resize(5, 1) :
+ l1 : 0 0 0 0 0
+ After l1.resize(8, 2) :
+ l1 : 0 0 0 0 0 2 2 2
+ l1.size() : 8
+ After l1.splice(l1.end(), l4) :
+ l1 : 0 0 0 0 0 2 2 2 1 2 3 4 5
+ After l1.splice(l1.begin(), l5, l5.begin()) :
+ l1 : 0 0 0 0 0 0 2 2 2 1 2 3 4 5
+ After l1.splice(l1.end(), l6, l6.begin(), ++l6.begin()) :
+ l1 : 0 0 0 0 0 0 2 2 2 1 2 3 4 5 0
+ l1.size() : 15
+ After l1.remove(0) :
+ l1 : 2 2 2 1 2 3 4 5
+ After l1.remove_if(is_odd) :
+ l1 : 2 2 2 2 4
+ l1.size() : 5
+ After l1.assign({ 9,5,3,3,7,1,3,2,2,0,10 }) :
+ l1 : 9 5 3 3 7 1 3 2 2 0 10
+ l1.size() : 11
+ After l1.sort() :
+ l1 : 0 1 2 2 3 3 3 5 7 9 10
+ After l1.unique() :
+ l1 : 0 1 2 3 5 7 9 10
+ After l1.unique([&](int a, int b) {return b == a + 1; }) :
+ l1 : 0 2 5 7 9
+ After l1.merge(l7) :
+ l1 : 0 1 2 2 3 4 5 5 6 7 7 8 9 9
+ After l1.sort(mystl::greater<int>()) :
+ l1 : 9 9 8 7 7 6 5 5 4 3 2 2 1 0
+ After l1.merge(l8, mystl::greater<int>()) :
+ l1 : 9 9 8 7 7 6 5 5 4 3 2 2 1 1 1 1 1 1 0
+ After l1.reverse() :
+ l1 : 0 1 1 1 1 1 1 2 2 3 4 5 5 6 7 7 8 9 9
+ After l1.clear() :
+ l1 :
+ After l1.swap(l9) :
+ l1 : 1 1 1 1 1
+ *l1.begin() : 1
+ *l1.rbegin() : 1
+ l1.front() : 1
+ l1.back() : 1
+ l1.empty() : false
+ l1.size() : 5
+ l1.max_size() : 18446744073709551615
+[ PASSED ]
+[--------------------- Performance Testing ---------------------]
+|---------------------|-------------|-------------|-------------|
+|       insert        |      1000   |     10000   |    100000   |
+|         std         |      8ms    |     47ms    |    434ms    |
+|        mystl        |      1ms    |     11ms    |    104ms    |
+|---------------------|-------------|-------------|-------------|
+|         sort        |       200   |      2000   |     20000   |
+|         std         |      8ms    |     78ms    |   1004ms    |
+|        mystl        |      1ms    |      6ms    |     86ms    |
+|---------------------|-------------|-------------|-------------|
+[ PASSED ]
+[------------------ End container test : list ------------------]
+[===============================================================]
+[----------------- Run container test : deque ------------------]
+[-------------------------- API test ---------------------------]
+ After d1.assign(5, 1) :
+ d1 : 1 1 1 1 1
+ After d1.assign(8, 8) :
+ d1 : 8 8 8 8 8 8 8 8
+ After d1.assign(a, a + 5) :
+ d1 : 1 2 3 4 5
+ After d1.assign({ 1,2,3,4,5 }) :
+ d1 : 1 2 3 4 5
+ After d1.insert(d1.end(), 6) :
+ d1 : 1 2 3 4 5 6
+ After d1.insert(d1.end() - 1, 2, 7) :
+ d1 : 1 2 3 4 5 7 7 6
+ After d1.insert(d1.begin(), a, a + 5) :
+ d1 : 1 2 3 4 5 1 2 3 4 5 7 7 6
+ After d1.erase(d1.begin()) :
+ d1 : 2 3 4 5 1 2 3 4 5 7 7 6
+ After d1.erase(d1.begin(), d1.begin() + 4) :
+ d1 : 1 2 3 4 5 7 7 6
+ After d1.emplace_back(8) :
+ d1 : 1 2 3 4 5 7 7 6 8
+ After d1.emplace_front(8) :
+ d1 : 8 1 2 3 4 5 7 7 6 8
+ After d1.emplace(d1.begin() + 1, 9) :
+ d1 : 8 9 1 2 3 4 5 7 7 6 8
+ After d1.push_front(1) :
+ d1 : 1 8 9 1 2 3 4 5 7 7 6 8
+ After d1.push_back(2) :
+ d1 : 1 8 9 1 2 3 4 5 7 7 6 8 2
+ After d1.pop_back() :
+ d1 : 1 8 9 1 2 3 4 5 7 7 6 8
+ After d1.pop_front() :
+ d1 : 8 9 1 2 3 4 5 7 7 6 8
+ After d1.shrink_to_fit() :
+ d1 : 8 9 1 2 3 4 5 7 7 6 8
+ After d1.resize(5) :
+ d1 : 8 9 1 2 3
+ After d1.resize(8, 8) :
+ d1 : 8 9 1 2 3 8 8 8
+ After d1.clear() :
+ d1 :
+ After d1.shrink_to_fit() :
+ d1 :
+ After d1.swap(d4) :
+ d1 : 1 2 3 4 5
+ *(d1.begin()) : 1
+ *(d1.end() - 1) : 5
+ *(d1.rbegin()) : 5
+ *(d1.rend() - 1) : 1
+ d1.front() : 1
+ d1.back() : 5
+ d1.at(1) : 2
+ d1[2] : 3
+ d1.empty() : false
+ d1.size() : 5
+ d1.max_size() : 18446744073709551615
+[ PASSED ]
+[--------------------- Performance Testing ---------------------]
+|---------------------|-------------|-------------|-------------|
+|     push_front      |      5000   |     50000   |    500000   |
+|         std         |     10ms    |     89ms    |    880ms    |
+|        mystl        |      4ms    |     18ms    |    176ms    |
+|---------------------|-------------|-------------|-------------|
+|     push_back       |      5000   |     50000   |    500000   |
+|         std         |     13ms    |     88ms    |    863ms    |
+|        mystl        |      2ms    |     18ms    |    171ms    |
+|---------------------|-------------|-------------|-------------|
+[ PASSED ]
+[----------------- End container test : deque ------------------]
+[===============================================================]
+[----------------- Run container test : queue ------------------]
+[-------------------------- API test ---------------------------]
+ After q1.push(1) :
+ q1 : 1
+ After q1.push(2) :
+ q1 : 1 2
+ After q1.push(3) :
+ q1 : 1 2 3
+ After q1.pop() :
+ q1 : 2 3
+ After q1.emplace(4) :
+ q1 : 2 3 4
+ After q1.emplace(5) :
+ q1 : 2 3 4 5
+ q1.empty() : false
+ q1.size() : 4
+ q1.front() : 2
+ q1.back() : 5
+ After q1.pop() :
+ q1 : 3 4 5
+ After q1.pop() :
+ q1 : 4 5
+ After q1.pop() :
+ q1 : 5
+ After q1.pop() :
+ q1 :
+ After q1.swap(q4) :
+ q1 : 1 2 3 4 5
+ After q1.clear() :
+ q1 :
+[ PASSED ]
+[--------------------- Performance Testing ---------------------]
+|---------------------|-------------|-------------|-------------|
+|         push        |      5000   |     50000   |    500000   |
+|         std         |     10ms    |     92ms    |    914ms    |
+|        mystl        |      4ms    |     18ms    |    175ms    |
+|---------------------|-------------|-------------|-------------|
+[ PASSED ]
+[----------------- End container test : queue ------------------]
+[===============================================================]
+[------------- Run container test : priority_queue -------------]
+[-------------------------- API test ---------------------------]
+ After p1.push(1) :
+ p1 : 1
+ After p1.push(5) :
+ p1 : 5 1
+ After p1.push(3) :
+ p1 : 5 3 1
+ After p1.pop() :
+ p1 : 3 1
+ After p1.emplace(7) :
+ p1 : 7 3 1
+ After p1.emplace(2) :
+ p1 : 7 3 2 1
+ After p1.emplace(8) :
+ p1 : 8 7 3 2 1
+ p1.empty() : false
+ p1.size() : 5
+ p1.top() : 8
+ After p1.pop() :
+ p1 : 7 3 2 1
+ After p1.pop() :
+ p1 : 3 2 1
+ After p1.pop() :
+ p1 : 2 1
+ After p1.pop() :
+ p1 : 1
+ After p1.pop() :
+ p1 :
+ After p1.swap(p4) :
+ p1 : 5 4 3 2 1
+ After p1.clear() :
+ p1 :
+[ PASSED ]
+[--------------------- Performance Testing ---------------------]
+|---------------------|-------------|-------------|-------------|
+|         push        |      5000   |     50000   |    500000   |
+|         std         |     21ms    |    176ms    |   1737ms    |
+|        mystl        |      4ms    |     40ms    |    361ms    |
+|---------------------|-------------|-------------|-------------|
+[ PASSED ]
+[------------- End container test : priority_queue -------------]
+[===============================================================]
+[----------------- Run container test : stack ------------------]
+[-------------------------- API test ---------------------------]
+ After s1.push(1) :
+ s1 : 1
+ After s1.push(2) :
+ s1 : 2 1
+ After s1.push(3) :
+ s1 : 3 2 1
+ After s1.pop() :
+ s1 : 2 1
+ After s1.emplace(4) :
+ s1 : 4 2 1
+ After s1.emplace(5) :
+ s1 : 5 4 2 1
+ s1.empty() : false
+ s1.size() : 4
+ s1.top() : 5
+ After s1.pop() :
+ s1 : 4 2 1
+ After s1.pop() :
+ s1 : 2 1
+ After s1.pop() :
+ s1 : 1
+ After s1.pop() :
+ s1 :
+ After s1.swap(s4) :
+ s1 : 5 4 3 2 1
+ After s1.clear() :
+ s1 :
+[ PASSED ]
+[--------------------- Performance Testing ---------------------]
+|---------------------|-------------|-------------|-------------|
+|         push        |      5000   |     50000   |    500000   |
+|         std         |     14ms    |     92ms    |    906ms    |
+|        mystl        |      4ms    |     23ms    |    202ms    |
+|---------------------|-------------|-------------|-------------|
+[ PASSED ]
+[----------------- End container test : stack ------------------]
+[===============================================================]
+[------------------ Run container test : map -------------------]
+[-------------------------- API test ---------------------------]
+ After m1.emplace(i, i) :
+ m1 : <5,5>
+ After m1.emplace(i, i) :
+ m1 : <4,4> <5,5>
+ After m1.emplace(i, i) :
+ m1 : <3,3> <4,4> <5,5>
+ After m1.emplace(i, i) :
+ m1 : <2,2> <3,3> <4,4> <5,5>
+ After m1.emplace(i, i) :
+ m1 : <1,1> <2,2> <3,3> <4,4> <5,5>
+ After m1.emplace_hint(m1.begin(), 0, 0) :
+ m1 : <0,0> <1,1> <2,2> <3,3> <4,4> <5,5>
+ After m1.erase(m1.begin()) :
+ m1 : <1,1> <2,2> <3,3> <4,4> <5,5>
+ After m1.erase(0) :
+ m1 : <1,1> <2,2> <3,3> <4,4> <5,5>
+ After m1.erase(1) :
+ m1 : <2,2> <3,3> <4,4> <5,5>
+ After m1.erase(m1.begin(), m1.end()) :
+ m1 :
+ After m1.insert(PAIR(i, i)) :
+ m1 : <0,0>
+ After m1.insert(PAIR(i, i)) :
+ m1 : <0,0> <1,1>
+ After m1.insert(PAIR(i, i)) :
+ m1 : <0,0> <1,1> <2,2>
+ After m1.insert(PAIR(i, i)) :
+ m1 : <0,0> <1,1> <2,2> <3,3>
+ After m1.insert(PAIR(i, i)) :
+ m1 : <0,0> <1,1> <2,2> <3,3> <4,4>
+ After m1.insert(v.begin(), v.end()) :
+ m1 : <0,0> <1,1> <2,2> <3,3> <4,4>
+ After m1.insert(m1.end(), PAIR(5, 5)) :
+ m1 : <0,0> <1,1> <2,2> <3,3> <4,4> <5,5>
+ m1.count(1) : 1
+ *m1.find(3) : <3,3>
+ *m1.lower_bound(3) : <3,3>
+ *m1.upper_bound(2) : <3,3>
+ m1.equal_range(2) : from <2, 2> to <3, 3>
+ After m1.erase(m1.begin()) :
+ m1 : <1,1> <2,2> <3,3> <4,4> <5,5>
+ After m1.erase(1) :
+ m1 : <2,2> <3,3> <4,4> <5,5>
+ After m1.erase(m1.begin(), m1.find(3)) :
+ m1 : <3,3> <4,4> <5,5>
+ After m1.clear() :
+ m1 :
+ After m1.swap(m9) :
+ m1 : <1,1> <2,3> <3,2>
+ *m1.begin() : <1,1>
+ *m1.rbegin() : <3,2>
+ m1[1] : 1
+ After m1[1] = 3 :
+ m1 : <1,3> <2,3> <3,2>
+ m1.at(1) : 3
+ m1.empty() : false
+ m1.size() : 3
+ m1.max_size() : 18446744073709551615
+[ PASSED ]
+[--------------------- Performance Testing ---------------------]
+|---------------------|-------------|-------------|-------------|
+|       emplace       |      1000   |     10000   |    100000   |
+|         std         |      8ms    |     84ms    |    894ms    |
+|        mystl        |      7ms    |     45ms    |    460ms    |
+|---------------------|-------------|-------------|-------------|
+[ PASSED ]
+[------------------ End container test : map -------------------]
+[===============================================================]
+[---------------- Run container test : multimap ----------------]
+[-------------------------- API test ---------------------------]
+ After m1.emplace(i, i) :
+ m1 : <5,5>
+ After m1.emplace(i, i) :
+ m1 : <4,4> <5,5>
+ After m1.emplace(i, i) :
+ m1 : <3,3> <4,4> <5,5>
+ After m1.emplace(i, i) :
+ m1 : <2,2> <3,3> <4,4> <5,5>
+ After m1.emplace(i, i) :
+ m1 : <1,1> <2,2> <3,3> <4,4> <5,5>
+ After m1.emplace_hint(m1.begin(), 0, 0) :
+ m1 : <0,0> <1,1> <2,2> <3,3> <4,4> <5,5>
+ After m1.erase(m1.begin()) :
+ m1 : <1,1> <2,2> <3,3> <4,4> <5,5>
+ After m1.erase(0) :
+ m1 : <1,1> <2,2> <3,3> <4,4> <5,5>
+ After m1.erase(1) :
+ m1 : <2,2> <3,3> <4,4> <5,5>
+ After m1.erase(m1.begin(), m1.end()) :
+ m1 :
+ After m1.insert(mystl::make_pair(i, i)) :
+ m1 : <0,0>
+ After m1.insert(mystl::make_pair(i, i)) :
+ m1 : <0,0> <1,1>
+ After m1.insert(mystl::make_pair(i, i)) :
+ m1 : <0,0> <1,1> <2,2>
+ After m1.insert(mystl::make_pair(i, i)) :
+ m1 : <0,0> <1,1> <2,2> <3,3>
+ After m1.insert(mystl::make_pair(i, i)) :
+ m1 : <0,0> <1,1> <2,2> <3,3> <4,4>
+ After m1.insert(v.begin(), v.end()) :
+ m1 : <0,0> <0,0> <1,1> <1,1> <2,2> <2,2> <3,3> <3,3> <4,4> <4,4>
+ After m1.insert(PAIR(5, 5)) :
+ m1 : <0,0> <0,0> <1,1> <1,1> <2,2> <2,2> <3,3> <3,3> <4,4> <4,4> <5,5>
+ After m1.insert(m1.end(), PAIR(5, 5)) :
+ m1 : <0,0> <0,0> <1,1> <1,1> <2,2> <2,2> <3,3> <3,3> <4,4> <4,4> <5,5> <5,5>
+ m1.count(3) : 2
+ *m1.find(3) : <3,3>
+ *m1.lower_bound(3) : <3,3>
+ *m1.upper_bound(2) : <3,3>
+ m1.equal_range(2) : from <2, 2> to <3, 3>
+ After m1.erase(m1.begin()) :
+ m1 : <0,0> <1,1> <1,1> <2,2> <2,2> <3,3> <3,3> <4,4> <4,4> <5,5> <5,5>
+ After m1.erase(1) :
+ m1 : <0,0> <2,2> <2,2> <3,3> <3,3> <4,4> <4,4> <5,5> <5,5>
+ After m1.erase(m1.begin(), m1.find(3)) :
+ m1 : <3,3> <3,3> <4,4> <4,4> <5,5> <5,5>
+ After m1.clear() :
+ m1 :
+ After m1.swap(m9) :
+ m1 : <1,1> <2,3> <3,2>
+ After m1.insert(PAIR(3, 3)) :
+ m1 : <1,1> <2,3> <3,2> <3,3>
+ *m1.begin() : <1,1>
+ *m1.rbegin() : <3,3>
+ m1.empty() : false
+ m1.size() : 4
+ m1.max_size() : 18446744073709551615
+[ PASSED ]
+[--------------------- Performance Testing ---------------------]
+|---------------------|-------------|-------------|-------------|
+|       emplace       |       200   |      2000   |     20000   |
+|         std         |      1ms    |     15ms    |    162ms    |
+|        mystl        |      1ms    |      9ms    |     76ms    |
+|---------------------|-------------|-------------|-------------|
+[ PASSED ]
+[---------------- End container test : multimap ----------------]
+[===============================================================]
+[------------------ Run container test : set -------------------]
+[-------------------------- API test ---------------------------]
+ After s1.emplace(i) :
+ s1 : 5
+ After s1.emplace(i) :
+ s1 : 4 5
+ After s1.emplace(i) :
+ s1 : 3 4 5
+ After s1.emplace(i) :
+ s1 : 2 3 4 5
+ After s1.emplace(i) :
+ s1 : 1 2 3 4 5
+ After s1.emplace_hint(s1.begin(), 0) :
+ s1 : 0 1 2 3 4 5
+ After s1.erase(s1.begin()) :
+ s1 : 1 2 3 4 5
+ After s1.erase(0) :
+ s1 : 1 2 3 4 5
+ After s1.erase(1) :
+ s1 : 2 3 4 5
+ After s1.erase(s1.begin(), s1.end()) :
+ s1 :
+ After s1.insert(i) :
+ s1 : 0
+ After s1.insert(i) :
+ s1 : 0 1
+ After s1.insert(i) :
+ s1 : 0 1 2
+ After s1.insert(i) :
+ s1 : 0 1 2 3
+ After s1.insert(i) :
+ s1 : 0 1 2 3 4
+ After s1.insert(a, a + 5) :
+ s1 : 0 1 2 3 4 5
+ After s1.insert(5) :
+ s1 : 0 1 2 3 4 5
+ After s1.insert(s1.end(), 5) :
+ s1 : 0 1 2 3 4 5
+ s1.count(5) : 1
+ *s1.find(3) : 3
+ *s1.lower_bound(3) : 3
+ *s1.upper_bound(3) : 4
+ s1.equal_range(3) : from 3 to 4
+ After s1.erase(s1.begin()) :
+ s1 : 1 2 3 4 5
+ After s1.erase(1) :
+ s1 : 2 3 4 5
+ After s1.erase(s1.begin(), s1.find(3)) :
+ s1 : 3 4 5
+ After s1.clear() :
+ s1 :
+ After s1.swap(s5) :
+ s1 : 1 2 3 4 5
+ *s1.begin() : 1
+ *s1.rbegin() : 5
+ s1.empty() : false
+ s1.size() : 5
+ s1.max_size() : 18446744073709551615
+[ PASSED ]
+[--------------------- Performance Testing ---------------------]
+|---------------------|-------------|-------------|-------------|
+|       emplace       |      1000   |     10000   |    100000   |
+|         std         |     11ms    |     83ms    |    839ms    |
+|        mystl        |      7ms    |     42ms    |    440ms    |
+|---------------------|-------------|-------------|-------------|
+[ PASSED ]
+[------------------ End container test : set -------------------]
+[===============================================================]
+[---------------- Run container test : multiset ----------------]
+[-------------------------- API test ---------------------------]
+ After s1.emplace(i) :
+ s1 : 5
+ After s1.emplace(i) :
+ s1 : 4 5
+ After s1.emplace(i) :
+ s1 : 3 4 5
+ After s1.emplace(i) :
+ s1 : 2 3 4 5
+ After s1.emplace(i) :
+ s1 : 1 2 3 4 5
+ After s1.emplace_hint(s1.begin(), 0) :
+ s1 : 0 1 2 3 4 5
+ After s1.erase(s1.begin()) :
+ s1 : 1 2 3 4 5
+ After s1.erase(0) :
+ s1 : 1 2 3 4 5
+ After s1.erase(1) :
+ s1 : 2 3 4 5
+ After s1.erase(s1.begin(), s1.end()) :
+ s1 :
+ After s1.insert(i) :
+ s1 : 0
+ After s1.insert(i) :
+ s1 : 0 1
+ After s1.insert(i) :
+ s1 : 0 1 2
+ After s1.insert(i) :
+ s1 : 0 1 2 3
+ After s1.insert(i) :
+ s1 : 0 1 2 3 4
+ After s1.insert(a, a + 5) :
+ s1 : 0 1 1 2 2 3 3 4 4 5
+ After s1.insert(5) :
+ s1 : 0 1 1 2 2 3 3 4 4 5 5
+ After s1.insert(s1.end(), 5) :
+ s1 : 0 1 1 2 2 3 3 4 4 5 5 5
+ s1.count(5) : 3
+ *s1.find(3) : 3
+ *s1.lower_bound(3) : 3
+ *s1.upper_bound(3) : 4
+ s1.equal_range(3) : from 3 to 4
+ After s1.erase(s1.begin()) :
+ s1 : 1 1 2 2 3 3 4 4 5 5 5
+ After s1.erase(1) :
+ s1 : 2 2 3 3 4 4 5 5 5
+ After s1.erase(s1.begin(), s1.find(3)) :
+ s1 : 3 3 4 4 5 5 5
+ After s1.clear() :
+ s1 :
+ After s1.swap(s5) :
+ s1 : 1 2 3 4 5
+ *s1.begin() : 1
+ *s1.rbegin() : 5
+ s1.empty() : false
+ s1.size() : 5
+ s1.max_size() : 18446744073709551615
+[ PASSED ]
+[--------------------- Performance Testing ---------------------]
+|---------------------|-------------|-------------|-------------|
+|       emplace       |       200   |      2000   |     20000   |
+|         std         |      2ms    |     14ms    |    150ms    |
+|        mystl        |      2ms    |      6ms    |     69ms    |
+|---------------------|-------------|-------------|-------------|
+[ PASSED ]
+[---------------- End container test : multiset ----------------]
+[===============================================================]
+[-------------- Run container test : unordered_map -------------]
+[-------------------------- API test ---------------------------]
+ After um1.emplace(1, 1) :
+ um1 : <1,1>
+ After um1.emplace_hint(um1.begin(), 1, 2) :
+ um1 : <1,1>
+ After um1.insert(PAIR(2, 2)) :
+ um1 : <1,1> <2,2>
+ After um1.insert(um1.end(), PAIR(3, 3)) :
+ um1 : <1,1> <2,2> <3,3>
+ After um1.insert(v.begin(), v.end()) :
+ um1 : <1,1> <2,2> <3,3> <4,4> <5,5>
+ After um1.erase(um1.begin()) :
+ um1 : <2,2> <3,3> <4,4> <5,5>
+ After um1.erase(um1.begin(), um1.find(3)) :
+ um1 : <3,3> <4,4> <5,5>
+ After um1.erase(1) :
+ um1 : <3,3> <4,4> <5,5>
+ um1.empty() : false
+ um1.size() : 3
+ um1.bucket_count() : 101
+ um1.max_bucket_count() : 18446744073709551557
+ um1.bucket(1) : 1
+ um1.bucket_size(um1.bucket(5)) : 1
+ After um1.clear() :
+ um1 :
+ After um1.swap(um7) :
+ um1 : <1,1> <2,2> <3,3> <4,4> <5,5>
+ *um1.begin() : <1,1>
+ um1.at(1) : 1
+ um1[1] : 1
+ um1.empty() : false
+ um1.size() : 5
+ um1.max_size() : 18446744073709551615
+ um1.bucket_count() : 101
+ um1.max_bucket_count() : 18446744073709551557
+ um1.bucket(1) : 1
+ um1.bucket_size(um1.bucket(1)) : 1
+ After um1.reserve(1000) :
+ um1 : <1,1> <2,2> <3,3> <4,4> <5,5>
+ um1.size() : 5
+ um1.bucket_count() : 1361
+ um1.bucket_size(1) : 1
+ um1.bucket_size(2) : 1
+ um1.bucket_size(3) : 1
+ After um1.rehash(150) :
+ um1 : <1,1> <2,2> <3,3> <4,4> <5,5>
+ um1.bucket_count() : 173
+ um1.count(1) : 1
+ *um1.find(3) : <3,3>
+ um1.equal_range(3) : from <3, 3> to <4, 4>
+ um1.load_factor() : 0.0289017
+ um1.max_load_factor() : 1
+ After um1.max_load_factor(1.5f) :
+ um1 : <1,1> <2,2> <3,3> <4,4> <5,5>
+ um1.max_load_factor() : 1.5
+[ PASSED ]
+[--------------------- Performance Testing ---------------------]
+|---------------------|-------------|-------------|-------------|
+|       emplace       |       200   |      2000   |     20000   |
+|         std         |      4ms    |     32ms    |    316ms    |
+|        mystl        |      1ms    |      8ms    |     64ms    |
+|---------------------|-------------|-------------|-------------|
+[ PASSED ]
+[-------------- End container test : unordered_map -------------]
+[===============================================================]
+[----------- Run container test : unordered_multimap -----------]
+[-------------------------- API test ---------------------------]
+ After um1.emplace(1, 1) :
+ um1 : <1,1>
+ After um1.emplace_hint(um1.begin(), 1, 2) :
+ um1 : <1,1> <1,2>
+ After um1.insert(PAIR(2, 2)) :
+ um1 : <1,1> <1,2> <2,2>
+ After um1.insert(um1.end(), PAIR(3, 3)) :
+ um1 : <1,1> <1,2> <2,2> <3,3>
+ After um1.insert(v.begin(), v.end()) :
+ um1 : <1,1> <1,1> <1,2> <2,2> <2,2> <3,3> <3,3> <4,4> <5,5>
+ After um1.erase(um1.begin()) :
+ um1 : <1,1> <1,2> <2,2> <2,2> <3,3> <3,3> <4,4> <5,5>
+ After um1.erase(um1.begin(), um1.find(3)) :
+ um1 : <3,3> <3,3> <4,4> <5,5>
+ After um1.erase(1) :
+ um1 : <3,3> <3,3> <4,4> <5,5>
+ um1.empty() : false
+ um1.size() : 4
+ um1.bucket_count() : 101
+ um1.max_bucket_count() : 18446744073709551557
+ um1.bucket(1) : 1
+ um1.bucket_size(um1.bucket(5)) : 1
+ After um1.clear() :
+ um1 :
+ After um1.swap(um7) :
+ um1 : <1,1> <2,2> <3,3> <4,4> <5,5>
+ *um1.begin() : <1,1>
+ um1.empty() : false
+ um1.size() : 5
+ um1.max_size() : 18446744073709551615
+ um1.bucket_count() : 101
+ um1.max_bucket_count() : 18446744073709551557
+ um1.bucket(1) : 1
+ um1.bucket_size(um1.bucket(1)) : 1
+ After um1.reserve(1000) :
+ um1 : <1,1> <2,2> <3,3> <4,4> <5,5>
+ um1.size() : 5
+ um1.bucket_count() : 1361
+ um1.bucket_size(1) : 1
+ um1.bucket_size(2) : 1
+ um1.bucket_size(3) : 1
+ After um1.rehash(150) :
+ um1 : <1,1> <2,2> <3,3> <4,4> <5,5>
+ um1.bucket_count() : 173
+ um1.count(1) : 1
+ *um1.find(3) : <3,3>
+ um1.equal_range(3) : from <3, 3> to <4, 4>
+ um1.load_factor() : 0.0289017
+ um1.max_load_factor() : 1
+ After um1.max_load_factor(1.5f) :
+ um1 : <1,1> <2,2> <3,3> <4,4> <5,5>
+ um1.max_load_factor() : 1.5
+[ PASSED ]
+[--------------------- Performance Testing ---------------------]
+|---------------------|-------------|-------------|-------------|
+|       emplace       |       200   |      2000   |     20000   |
+|         std         |      4ms    |     32ms    |    423ms    |
+|        mystl        |      1ms    |      7ms    |     77ms    |
+|---------------------|-------------|-------------|-------------|
+[ PASSED ]
+[----------- End container test : unordered_multimap -----------]
+[===============================================================]
+[-------------- Run container test : unordered_set -------------]
+[-------------------------- API test ---------------------------]
+ After us1.emplace(1) :
+ us1 : 1
+ After us1.emplace_hint(us1.end(), 2) :
+ us1 : 1 2
+ After us1.insert(5) :
+ us1 : 1 2 5
+ After us1.insert(us1.begin(), 5) :
+ us1 : 1 2 5
+ After us1.insert(a, a + 5) :
+ us1 : 1 2 3 4 5
+ After us1.erase(us1.begin()) :
+ us1 : 2 3 4 5
+ After us1.erase(us1.begin(), us1.find(3)) :
+ us1 : 3 4 5
+ After us1.erase(1) :
+ us1 : 3 4 5
+ us1.empty() : false
+ us1.size() : 3
+ us1.bucket_count() : 101
+ us1.max_bucket_count() : 18446744073709551557
+ us1.bucket(1) : 1
+ us1.bucket_size(us1.bucket(5)) : 1
+ After us1.clear() :
+ us1 :
+ After us1.swap(us7) :
+ us1 : 1 2 3 4 5
+ *us1.begin() : 1
+ us1.empty() : false
+ us1.size() : 5
+ us1.max_size() : 18446744073709551615
+ us1.bucket_count() : 101
+ After us1.reserve(1000) :
+ us1 : 1 2 3 4 5
+ *us1.begin(us1.bucket(1)) : 1
+ us1.size() : 5
+ us1.bucket_count() : 1361
+ us1.bucket_size(1) : 1
+ us1.bucket_size(2) : 1
+ us1.bucket_size(3) : 1
+ After us1.rehash(150) :
+ us1 : 1 2 3 4 5
+ us1.bucket_count() : 173
+ us1.count(1) : 1
+ *us1.find(3) : 3
+ us1.equal_range(3) : from 3 to 4
+ us1.load_factor() : 0.0289017
+ us1.max_load_factor() : 1
+ After us1.max_load_factor(1.5f) :
+ us1 : 1 2 3 4 5
+ us1.max_load_factor() : 1.5
+[ PASSED ]
+[--------------------- Performance Testing ---------------------]
+|---------------------|-------------|-------------|-------------|
+|       emplace       |      1000   |     10000   |    100000   |
+|         std         |     14ms    |    212ms    |   1321ms    |
+|        mystl        |      6ms    |     35ms    |    231ms    |
+|---------------------|-------------|-------------|-------------|
+[ PASSED ]
+[-------------- End container test : unordered_set -------------]
+[===============================================================]
+[------------ Run container test : unordered_multiset ----------]
+[-------------------------- API test ---------------------------]
+ After us1.emplace(1) :
+ us1 : 1
+ After us1.emplace_hint(us1.end(), 2) :
+ us1 : 1 2
+ After us1.insert(5) :
+ us1 : 1 2 5
+ After us1.insert(us1.begin(), 5) :
+ us1 : 1 2 5 5
+ After us1.insert(a, a + 5) :
+ us1 : 1 1 2 2 3 4 5 5 5
+ After us1.erase(us1.begin()) :
+ us1 : 1 2 2 3 4 5 5 5
+ After us1.erase(us1.begin(), us1.find(3)) :
+ us1 : 3 4 5 5 5
+ After us1.erase(1) :
+ us1 : 3 4 5 5 5
+ us1.empty() : false
+ us1.size() : 5
+ us1.bucket_count() : 101
+ us1.max_bucket_count() : 18446744073709551557
+ us1.bucket(1) : 1
+ us1.bucket_size(us1.bucket(5)) : 3
+ After us1.clear() :
+ us1 :
+ After us1.swap(us7) :
+ us1 : 1 2 3 4 5
+ *us1.begin() : 1
+ us1.empty() : false
+ us1.size() : 5
+ us1.max_size() : 18446744073709551615
+ us1.bucket_count() : 101
+ After us1.reserve(1000) :
+ us1 : 1 2 3 4 5
+ *us1.begin(us1.bucket(1)) : 1
+ us1.size() : 5
+ us1.bucket_count() : 1361
+ us1.bucket_size(1) : 1
+ us1.bucket_size(2) : 1
+ us1.bucket_size(3) : 1
+ After us1.rehash(150) :
+ us1 : 1 2 3 4 5
+ us1.bucket_count() : 173
+ us1.count(1) : 1
+ *us1.find(3) : 3
+ us1.equal_range(3) : from 3 to 4
+ us1.load_factor() : 0.0289017
+ us1.max_load_factor() : 1
+ After us1.max_load_factor(1.5f) :
+ us1 : 1 2 3 4 5
+ us1.max_load_factor() : 1.5
+[ PASSED ]
+[--------------------- Performance Testing ---------------------]
+|---------------------|-------------|-------------|-------------|
+|       emplace       |       200   |      2000   |     20000   |
+|         std         |      3ms    |     33ms    |    438ms    |
+|        mystl        |      1ms    |      9ms    |     75ms    |
+|---------------------|-------------|-------------|-------------|
+[ PASSED ]
+[------------ End container test : unordered_multiset ----------]
+[===============================================================]
+[----------------- Run container test : string -----------------]
+[-------------------------- API test ---------------------------]
+ After str = 'a' :
+ str : a
+ After str = "string" :
+ str : string
+ *str.begin() : s
+ *str.rbegin() : g
+ *(str.end() - 1) : g
+ *(str.rend() - 1) : s
+ str.front() : s
+ str.back() : g
+ str[1] : t
+ str.at(2) : r
+ str.data() : string
+ str.c_str() : string
+ str.empty() : false
+ str.size() : 6
+ str.length() : 6
+ str.capacity() : 7
+ str.max_size() : 18446744073709551615
+ After str.shrink_to_fit() :
+ str : string
+ str.capacity() : 6
+ After str.insert(str.begin(), 'a') :
+ str : astring
+ After str.insert(str.end(), 3, 'x') :
+ str : astringxxx
+ After str.insert(str.end(), s, s + 3) :
+ str : astringxxxabc
+ After str.erase(str.begin()) :
+ str : stringxxxabc
+ After str.erase(str.begin(), str.begin() + 3) :
+ str : ingxxxabc
+ After str.clear() :
+ str :
+ After str.push_back('s') :
+ str : s
+ After str.push_back('t') :
+ str : st
+ After str.pop_back() :
+ str : s
+ After str.append(1, 't') :
+ str : st
+ After str.append(str4) :
+ str : stabc
+ After str.append(str4, 1) :
+ str : stabcbc
+ After str.append(str4, 2, 1) :
+ str : stabcbcc
+ After str.append("str") :
+ str : stabcbccstr
+ After str.append("inging", 3) :
+ str : stabcbccstring
+ After str.append(s, s + 3) :
+ str : stabcbccstringabc
+ After str.resize(10) :
+ str : stabcbccst
+ str.size() : 10
+ After str.resize(20, 'x') :
+ str : stabcbccstxxxxxxxxxx
+ str.size() : 20
+ After str.clear() :
+ str :
+ After str = "string" :
+ str : string
+ After str3 = "astrings" :
+ str3 : astrings
+ str.compare(str3) : 1
+ str.compare(0, 6, str3) : 1
+ str.compare(0, 6, str3, 1, 6) : 1
+ str.compare("atringgg") : 1
+ str.compare("zzz") : -1
+ str.compare(0, 3, "str") : 0
+ str.compare(0, 3, "stri", 4) : -1
+ str.compare(0, 3, "s", 3) : 1
+ str.compare(0, 9, "stringabc", 9) : -1
+ str.substr(0) : string
+ str.substr(3) : ing
+ str.substr(0, 3) : str
+ str.substr(0, 10) : string
+ After str.replace(0, 6, str3) :
+ str : astrings
+ After str.replace(str.end() - 1, str.end(), str3) :
+ str : astringastrings
+ After str.replace(0, 1, "my ") :
+ str : my stringastrings
+ After str.replace(str.end() - 8, str.end(), " test") :
+ str : my string test
+ After str.replace(10, 4, "replace") :
+ str : my string replace
+ After str.replace(str.end(), str.end(), " test") :
+ str : my string replace test
+ After str.replace(0, 2, 3, '6') :
+ str : 666 string replace test
+ After str.replace(str.begin(), str.begin() + 3, 6, '6') :
+ str : 666666 string replace test
+ After str.replace(0, 3, str3, 1, 3) :
+ str : str666 string replace test
+ After str.replace(str.begin(), str.begin() + 6, s, s + 3) :
+ str : abc string replace test
+ After str.reverse() :
+ str : tset ecalper gnirts cba
+ After str.reverse() :
+ str : abc string replace test
+ After str = "abcabc stringgg" :
+ str : abcabc stringgg
+ After str3 = "abc" :
+ str3 : abc
+ str.find('a') : 0
+ str.find('a', 3) : 3
+ str.find('a', 4) : 18446744073709551615
+ str.find("abc") : 0
+ str.find("abc", 1) : 3
+ str.find("abc", 1, 1) : 3
+ str.find(str3) : 0
+ str.find(str3, 1) : 3
+ str.rfind('g') : 14
+ str.rfind('g', 3) : 18446744073709551615
+ str.rfind("gg") : 13
+ str.rfind("bc", 10) : 4
+ str.rfind(str3) : 3
+ str.rfind(str3, 3) : 0
+ str.find_first_of('g') : 12
+ str.find_first_of('k') : 18446744073709551615
+ str.find_first_of("bca") : 0
+ str.find_first_of("defg", 10) : 12
+ str.find_first_of("gnirts") : 7
+ str.find_first_of("abc", 6) : 18446744073709551615
+ str.find_first_of("abcdf", 2, 3) : 2
+ str.find_first_of(str3, 1) : 1
+ str.find_first_of(str3, 10) : 18446744073709551615
+ str.find_first_not_of('a') : 1
+ str.find_first_not_of('d') : 0
+ str.find_first_not_of('g', 14) : 18446744073709551615
+ str.find_first_not_of("abc") : 0
+ str.find_first_not_of("ggggg", 14, 4) : 18446744073709551615
+ str.find_first_not_of(str3) : 0
+ str.find_first_not_of(str3, 3) : 3
+ str.find_last_of('a') : 3
+ str.find_last_of('a', 4) : 18446744073709551615
+ str.find_last_of('g') : 14
+ str.find_last_of("gg") : 14
+ str.find_last_of("gg", 14) : 14
+ str.find_last_of("ggg", 14, 1) : 14
+ str.find_last_of(str3) : 5
+ str.find_last_of(str3, 3) : 5
+ str.find_last_not_of('g') : 11
+ str.find_last_not_of('a') : 14
+ str.find_last_not_of('a', 1) : 14
+ str.find_last_not_of("ggg") : 11
+ str.find_last_not_of("ggg", 14) : 18446744073709551615
+ str.find_last_not_of("abc", 3, 1) : 14
+ str.find_last_not_of(str3) : 14
+ str.find_last_not_of(str3, 2) : 14
+ str.count('a') : 2
+ str.count('a', 2) : 1
+ str.count('d', 10) : 0
+ After str.swap(str3) :
+ str : abc
+ str.size() : 3
+ str.length() : 3
+ str.capacity() : 32
+ After str += str :
+ str : abcabc
+ After str += 'a' :
+ str : abcabca
+ After str += "bc" :
+ str : abcabcabc
+ str.size() : 9
+ str.length() : 9
+ str.capacity() : 32
+ After str.shrink_to_fit() :
+ str : abcabcabc
+ str.capacity() : 9
+ After str.reserve(50) :
+ str : abcabcabc
+ str.capacity() : 50
+ After str3 = "test" :
+ str3 : test
+ After str4 = " ok!" :
+ str4 :  ok!
+ str3 + '!' : test!
+ '#' + str3 : #test
+ str3 + " success" : test success
+ "My " + str3 : My test
+ str3 + str4 : test ok!
+[ PASSED ]
+[--------------------- Performance Testing ---------------------]
+|---------------------|-------------|-------------|-------------|
+|        append       |      5000   |     50000   |    500000   |
+|         std         |      4ms    |     19ms    |    187ms    |
+|        mystl        |      1ms    |     12ms    |     92ms    |
+|---------------------|-------------|-------------|-------------|
+[ PASSED ]
+[----------------- End container test : string -----------------]
+
+D:\learn\C++\MyTinySTL-master\MSVC\x64\Debug\MyTinySTL.exe (进程 11000)已退出，返回代码为: 0。
+按任意键关闭此窗口...
