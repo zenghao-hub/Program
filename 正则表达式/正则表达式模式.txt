@@ -1,0 +1,131 @@
+1.简单类 只要含有正则中的内容即可
+
+
+var reg1 = /abc/;
+
+　2.字符类:在正则中使用[]整体表示一位字符，字符串的某一个字符满足中括号中内容的其中一个即可
+
+　　 var reg2 = /[abc]/;
+    console.log(reg2.test("xyz"));//false
+    console.log(reg2.test("cdef"));//true  在cdef中含有[abc]中的一个c
+
+3.反向类:在字符类中括号内部最开始写一个^，表示反向
+
+　　var reg3 = /[^abc]/; // 字符串中含有除了abc以外的任意字符即可返回true
+    console.log(reg3.test("abc"));//false
+    console.log(reg3.test('cdef')); // true
+
+4.范围类
+
+var reg4 = /[abcdefghigklmnopqrst]/;   
+ var reg4 = /[a-t]/;//可以匹配到a到t之间的任意一个字符
+    console.log(reg4.test("uwy"));//false
+    console.log(reg4.test("guwy"));//true
+    //想要匹配所有的小写字母 //var reg = /[a-z]/;
+    //想要匹配所有的大写字母 var reg = /[A-Z]/;
+    //想要匹配所有的数字 var reg = /[0-9]/
+
+
+　5.组合类
+
+ 
+var reg5 = /[0-9a-z]/;
+    console.log(reg5.test("AAAAAAAAAA"));//false
+    console.log(reg5.test("AAAAA0AAAAA"));//true
+    console.log(reg5.test("AAAAAaAAAAA"));//true
+
+ var reg = /[A-Z0-9a-z]/;
+    console.log(reg5.test("AAAAAAAAAA"));//true
+    console.log(reg5.test("012323"));//true
+    console.log(reg5.test("aaaaaa"));//true
+
+
+
+6.预定义类  意思就是正则提供了相应的api来简化写法
+
+ 
+var reg6 = /\d/;// /[0-9]/;
+    /*
+    . 匹配除换行符以外的任意字符
+    \w 单词字符(所有的字母数字和_) word
+    \W [^a-zA-Z0-9_] 非单词字符
+    \s 匹配任意的空白符 space
+    \S [^\f\r\n\t\v] 可见字符
+    \d 匹配数字 digit
+    \D [^0-9] 非数字字符
+    \b 匹配单词的开始或结束
+
+7.字符转义：（常用的）
+
+　　/*
+     如果使用元字符本身，需转义如. * \
+     \. \* \\     */
+
+8. 或者  |    括号 () 提升优先级，先计算
+
+var reg8 = /abc|bcd/;
+    console.log(reg8.test("ab"));//false
+    console.log(reg8.test("abc"));//true
+    console.log(reg8.test("bcd"));//true
+    var reg8 = /a|b|c|d/;//如果使用单个字符，与后面的作用相同 [abcd]
+
+9.  ^   匹配字符串的开始    $    匹配字符串的结束  
+
+　　　　（ ^ 在中括号外使用，写在正则最前面时，表示匹配开头,一个正则中只能使用一次）
+
+
+var reg = /^abc/;
+    console.log(reg.test("abcdefg")); //true
+    console.log(reg.test("aabcdefg"));//false
+
+（$ 写在正则最后位置，表示以xxx结束）
+
+    
+var reg9 = /abc$/;
+    console.log(reg9.test("ddddabc"));//true
+    console.log(reg9.test("ddddaabbc"));//false
+
+　　^和$同时使用 严格匹配-必须跟书写的正则内容完全相同
+
+   
+var reg = /^abc$/;
+    console.log(reg.test("abc"));//true
+    console.log(reg.test("abcabc"));//false
+10.量词   //使用量词，表示数量
+
+      　　大括号中书写一个数值。表示出现的次数
+
+var reg = /^a{3}$/;
+console.log(reg.test("aa"));//false
+console.log(reg.test("aaa"));//true
+console.log(reg.test("aaaa"));//false
+
+　匹配2-5个
+
+var reg = /^a{2,5}$/;
+    console.log(reg.test("a"));//false
+    console.log(reg.test("aa"));//true
+    console.log(reg.test("aaaaaa"));//false
+　匹配至少3个
+var reg = /^a{3,}$/;
+    console.log(reg.test("aa"));//false
+    console.log(reg.test("aaa"));//true
+    console.log(reg.test("aaaa"));//true
+* 匹配0-多个 当字符串中某一个部分可选时，使用*
+
+var reg = /^a*$/;
+    console.log(reg.test(""));//true
+    console.log(reg.test("a"));//true
+    console.log(reg.test("aaaa"));//true
+　　+ 匹配1个到多个
+
+var reg = /^a+$/;
+    console.log(reg.test(""));//false
+    console.log(reg.test("a"));//true
+    console.log(reg.test("aaaa"));//true
+　　　? 匹配0个或1个
+
+var reg = /^a?$/;
+console.log(reg.test(""));//true
+console.log(reg.test("a"));//true
+console.log(reg.test("aaaa"));//false
