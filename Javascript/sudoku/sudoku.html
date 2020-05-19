@@ -1,0 +1,161 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width,user-scalable=no" />
+	<title>数独游戏</title>
+	<style>
+		ul,li{
+			list-style: none;	
+			margin: 0;
+			padding: 0;		
+		}
+		.sd{
+			width:500px;
+			height: 500px;
+			margin: 50px auto 0;
+		}
+
+		.sdspan{
+			float: left;
+			display: inline-block;
+			margin: 0;
+			border: 1px solid green;
+			/*border-bottom: 1px solid green;
+			border-right: 1px solid green;*/
+			height: 52px;
+			width: 52px;
+			line-height: 52px;
+			text-align: center;
+			font-size: 30px;
+		}	
+		.sdli{
+			width: 100%;
+			height: 53px;
+			float: left;
+		}
+
+		.bl{
+			border-left-color: blue;
+			border-left-style: solid;
+		}
+		.bt{
+			border-top-color: blue;
+			border-top-style: solid;
+		}
+		.br{
+			border-right-color: blue;
+			border-right-width: 3px;
+			border-right-style: solid;
+		}
+		.bb{
+			border-bottom-color: blue;
+			border-bottom-width: 3px;
+			border-bottom-style: solid;
+		}
+		.outbb{
+			border-bottom-color: black;
+			border-bottom-width: 4px;
+			border-bottom-style: solid;
+		}
+		.outbt{
+			border-top-color: black;
+			border-top-width: 4px;
+			border-top-style: solid;
+		}
+		.outbr{
+			border-right-color: black;
+			border-right-width: 4px;
+			border-right-style: solid;
+		}
+		.outbl{
+			border-left-color: black;
+			border-left-width: 4px;
+			border-left-style: solid;
+		}
+		.blankCell{
+			color:green;
+			font-weight: bold;
+			font-weight: 60;
+			font-size: 35px;
+		}	
+		#setbg{
+			/*margin-bottom: auto;
+			margin-left: auto;
+			margin-right: auto;
+			margin-top: 3px;
+			width: 47;
+			height: 47;*/
+			/*background-color: beige;
+*/		}
+		.btn-group{
+			margin-top: 20px;
+			margin-bottom: 20px;
+			text-align:center;
+		}
+		.btn-group button{
+			display: inline-block;
+			width: 80px;
+			height: 40px;
+			font-size: 15px;
+			border: 1px solid green;
+			margin-left: 10px;
+			margin-right: 10px;
+		}
+		.chooseNum div{
+			margin-left: 10px;
+			margin-right: 10px;
+			width: 30px;
+			height: 30px;
+			float: left;
+			border: 1px solid green;
+			text-align: center;
+			font-size: 20px;
+			cursor:pointer;
+			/*cursor:url('img/1.png'),auto;*/
+		}
+		.bg_red{
+			background: red;
+		}
+		.show_choose{
+			font-weight: bold;
+			color:yellow;
+		}
+	</style>
+</head>
+<body>
+	<h1 class="textTitle" style="text-align: center; font-weight: normal;">数 独 游 戏</h1>
+
+	<script src="js/sudoku.js"></script>
+	<script src="js/jquery.js"></script>
+	<div class="sudokuWhole"></div>
+	<div class = "btn-group">
+		设置难度
+		<input type="text" id="setNum" value=30 maxlength="2" style="width:50px" oninput = "value=value.replace(/[^\d]/g,'')"/>
+		<button onclick = "sd.refresh();">刷新</button>
+		<!--<button onclick = "sd.again();">重玩本局</button>-->
+	</div>
+	<p id="timer" style="text-align: center">11</p>
+	<script>
+		var timeObj = document.getElementById("timer");
+		endTimer();
+		startTimer();
+	</script>
+	<script>
+		var sd = new SUDO;
+		sd.init();
+	</script>
+
+	<div class="chooseNum" style="height:32px;width:520px;margin: auto;">
+		<div id="C1" onclick="sd.choose()">1</div>
+		<div id="C2" onclick="sd.choose()">2</div>
+		<div id="C3" onclick="sd.choose()">3</div>
+		<div id="C4" onclick="sd.choose()">4</div>
+		<div id="C5" onclick="sd.choose()">5</div>
+		<div id="C6" onclick="sd.choose()">6</div>
+		<div id="C7" onclick="sd.choose()">7</div>
+		<div id="C8" onclick="sd.choose()">8</div>
+		<div id="C9" onclick="sd.choose()">9</div>
+		<div id="CX" onclick="sd.choose()">X</div>
+	</div>	
+</body>
+</html>
